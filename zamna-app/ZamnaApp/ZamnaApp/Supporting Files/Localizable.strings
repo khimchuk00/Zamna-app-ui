@@ -1,0 +1,136 @@
+//MARK: - How it works screens
+//Sharing Data
+"sharingData_title" = "Sharing Data";
+"sharingData_mainText" = "We will always provide your customer with detail of what data is being shared and with whom.";
+"sharingData_item_1_text" = "We do this by establishing a secure connection between the customer's in app travel wallet (where their identity credentials are stored) and the third party system - they request what data sets they need (both essential and optional).";
+"sharingData_item_2_text" = "A Credential is always trusted. Zamna takes care of managing credentials meaning that when you use the data you know it is trusted, accurate and verifiable.";
+"sharingData_item_3_text" = "A Credential is always trusted. Zamna takes care of managing credentials meaning that when you use the data you know it is trusted, accurate and verifiable.";
+"sharingData_item_4_text" = "Data is only shared with a customer’s permission. If the data is to be used, it will always need consent from the owner of the data. This puts the customer back in control of knowing where their data is going.";
+//Check-in
+"checkIn_title" = "How it works";
+"checkIn_mainText" = "We've just checked you in for your flight with verified travel document data.";
+"checkIn_subText" = "Zamna Altitude is the mobile SDK that powers up your customer facing application and ensures you have what is needed to always check-in with ease. We take care of how sensitive data is managed and  kept secure.";
+"checkIn_item_1_text" = "We do this by establishing a secure connection between the customer's in app travel wallet (where their identity credentials are stored) and the airline systems.";
+"checkIn_item_2_text" = "The credential sharing process puts guard rails around the data and ensures the data is only available for the intended purpose and time. When the airline needs to process this data it is accessed for processing - notably, it is not needed to be stored on airline systems, but accessed only on demand.";
+"checkIn_item_3_text" = "A Credential is always trusted. Zamna takes care of managing credentials meaning that when you use the data you know it is trusted, accurate and verifiable.";
+"checkIn_item_4_text" = "Data is only shared with a customer’s permission. If the data is to be used, it will always need consent from the owner of the data. This puts the customer back in control of knowing where their data is going.";
+//biometrics
+"biometrics_title" = "How it works";
+"biometrics_mainText" = "We've just shared your biometrics and flight details with your departure airport. But how exactly have we done this, and what about your personal data?";
+"biometrics_subText" = "Zamna Altitude is the mobile SDK that powers up your customer facing application and ensures you have what is needed to always check-in with ease. We take care of how sensitive data is managed and kept secure.";
+"biometrics_item_1_text" = "We do this by establishing a secure connection between the customer's in-app travel wallet (where their identity credentials are stored) and the airport operational systems.";
+"biometrics_item_2_text" = "The credential sharing process puts guard rails around the data and ensures the data is only available for the intended purpose and time. When the airport needs to process this data it is accessed for processing - notably, it is not needed to be stored on airport systems for any length of time, but accessed only on demand.";
+"biometrics_item_3_text" = "A Credential is always trusted. Zamna takes care of managing credentials meaning that when you use the data you know it is trusted, accurate and verifiable.";
+"biometrics_item_4_text" = "Data is only shared with a customer’s permission. If the data is to be used, it will always need consent from the owner of the data. This puts the customer back in control of knowing where their data is going.";
+//identity
+"identity_title" = "How it works";
+"identity_mainText" = "Why do we ask to prove Identity?";
+"identity_subText" = "Zamna Altitude puts your organisation on \"Identity Rails\" This underpins all we do and forms the foundation of your business doing even more.";
+"identity_item_1_text" = "We do this by establishing a secure connection between the customer's in app travel wallet (where their identity credentials are stored) and the airline systems.";
+"identity_item_2_text" = "This is what powers your app and your business processes - with verified and assured data customers can be streamlined through (or even skip) process steps in the operation.";
+"identity_item_3_text" = "As a result, check-in and flight readiness is only ever a click away. IT is assured and completely secure.";
+
+//MARK: - Overlays
+//verified APIS
+"verified_title" = "Verified APIS\nPowered by Zamna Genesis.";
+"verified1_mainText1" = "Zamna Verified APIS provides a secure verification service for trusted organisations and agencies. It verifies Personally Identifiable Information without ever exposing or processing that data.";
+"verified1_mainText2" = "Any verified travel document data set generates a cryptographic signal as a high entropy, mathematical outcome - securing the data. The original data is not determinable from the generated Signal.";
+"verified1_mainText3" = "Trusted entities are empowered to add new verified signals as well as query the Zamna Signal base to gain insight on data accuracy - even when they have never seen this data before.";
+"verified1_mainText4" = "This enables organisations and agencies to have confidence in the accuracy of data sets, and make more effective decisions resulting in a better exp[erience for the customer and a streamlined, more efficient operation for your organisation.";
+
+"verified2_mainText1" = "Zamna has been collecting travel document verifications for the past few years - amassing a wide range of documents from every corner of the planet.";
+
+"verified2_mainText2" = "We find that on average";
+"verified2_mainText3" = " 35% ";
+"verified2_mainText4" = "of self declared travel document data has mistakes in them. Even for customers in the highest levels of their loyalty programs we see an error";
+"verified2_mainText5" = " rate of 25%. ";
+"verified2_mainText6" = "As a result customers are repeatedly forced to desks and kiosks in the airport. With Zamna Verified APIS we can assure you of accurate data at the point of data entry - even when you’ve never seen this data before.";
+
+//Information popup
+"middleName_title" = "Middle name";
+"givenName_title" = "Given name";
+"dateOfBirth_title" = "Date of Birth";
+"sex_title" = "Sex";
+"nationality_title" = "Nationality";
+"countryOfIssue_title" = "Country of Issue";
+"passportNumber_title" = "Passport Number";
+"identityCard_title" = "Identity Card Number";
+"dateOfIssue_title" = "Date of Issue";
+"dateOfExpiry_title" = "Date of Expiry";
+"pleaseCheckData_title" = "Please check your data";
+
+"middleName_text" = "Please enter your Surname as printed on your passport.\n\nEnsure that only the printed characters are entered, noting these can be simplified in order to satisfy international standards.";
+"givenName_text" = "Please enter your Given Names as printed on your passport. Ensure that only the printed names and characters are entered including spaces, noting these can be simplified in order to satisfy international standards.";
+"dateOfBirth_text" = "Please enter your Given Names as printed on your passport. Ensure that only the printed names and characters are entered including spaces, noting these can be simplified in order to satisfy international standards.";
+"sex_text" = "Please ensure you enter the sex as stated on your passport.";
+"nationality_text" = "Please search for the nationality as printed in your document.\n\nBe careful to ensure this is not the issuing country of the document.";
+"countryOfIssue_text" = "Please search for the issuing country as printed in your document. This can be described as “Code” and may be a three letter acronym.";
+"passportNumber_text" = "Please enter the passport number as printed in your passport. This number can contain characters too, please include these where present.";
+"identityCard_text" = "Please enter the identity card number as printed on your identity document. This number can contain characters too, please include these where present.";
+"dateOfIssue_text" = "Please ensure the correct date is selected taking care to ensure that day, month and year are accurately captured.";
+"dateOfExpiry_text" = "Please ensure the correct date is selected taking care to ensure that day, month and year are accurately captured.";
+"pleaseCheckData_text" = "We have attempted to verify your data and spotted a problem in one or more fields.";
+
+"middleName_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"givenName_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"dateOfBirth_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"sex_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"nationality_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"countryOfIssue_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"passportNumber_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"identityCard_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"dateOfIssue_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"dateOfExpiry_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+"pleaseCheckData_tipText" = "About 30 percent of people make mistakes in the name when entering data.";
+
+//MARK: - Introduction screens
+//Introduction
+"introduction_title" = "Your partner for assured and trusted identity";
+"introduction_mainText" = "We'll show you how Zamna powers your identity ambitions, making the jump to assured identity painless and full of opportunity.";
+"introduction_buttonTitle" = "Get started";
+"introduction_terms_1_text" = "By using Zamna App you aggree with our ";
+"introduction_terms_2_text" = "Terms & Conditions";
+"introduction_terms_3_text" = " and ";
+"introduction_terms_4_text" = "Privacy Policy";
+
+//Mainthrough
+"mainthrough_title" = "How it works";
+"mainthrough_1_mainText" = "In-app wallet";
+"mainthrough_1_subText" = "Zamna creates a secure wallet on your device to manage all of your sensitive identity information. This is protected using advanced cryptography and only accessible with your permission and by proving your identity with biometrics.";
+"mainthrough_2_mainText" = "One click check-in ";
+"mainthrough_2_subText" = "Using your known and trusted identity with your verified travel documents, Zamna enables fast and trustworthy check-in every time.";
+"mainthrough_3_mainText" = "Flight checklist";
+"mainthrough_3_subText" = "Zamna helps prepare you for your trip. We'll guide you through verifying your data and ensuring that you have everything you need to fly: from health certificates to Government Travel Authorisation.";
+"mainthrough_skipButtonTitle" = "Skip";
+"mainthrough_continueButtonTitle" = "Continue";
+"mainthrough_letsGoButtonTitle" = "Let's go!";
+
+
+//MARK: - Menu screens
+//Menu
+"menu_completion" = "profile completion";
+"menu_wallet" = "Wallet";
+"menu_preferances" = "Personal preferences";
+"menu_how_it_works" = "How it works";
+"menu_faq" = "FAQ";
+"menu_contact" = "Contact us";
+"menu_share" = "Share application";
+"menu_dev_settings" = "Developers settings";
+"menu_data_options" = "Prefill data options";
+"menu_settings" = "Flight info settings";
+
+//Personal preferences
+"preferences_title" = "Set-up your personal preferences";
+"preferences_name" = "Preferred name";
+"preferences_seating" = "Seating preference";
+"preferences_dietary" = "Dietary preference";
+"preferences_front" = "Front";
+"preferences_rear" = "Rear";
+"preferences_window" = "Window";
+"preferences_aisle" = "Aisle";
+"preferences_noPreferance" = "No preference";
+"preferences_vegan" = "Vegan";
+"preferences_halal" = "Halal";
+"preferences_vegetarian" = "Vegetarian";
+"preferences_save" = "Save";
+

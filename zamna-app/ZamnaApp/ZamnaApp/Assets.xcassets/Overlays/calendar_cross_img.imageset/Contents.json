@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "calendar_cross_img.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
